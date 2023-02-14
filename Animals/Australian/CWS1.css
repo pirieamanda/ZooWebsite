@@ -1,0 +1,138 @@
+body {
+    background-color: #b3d1ff;
+    font-family: 'Merriweather', serif;
+    font-size: large;
+    color: #grey;
+}
+
+a:link {color: darkblue;}
+a:visited {color: #1a75ff;}
+a:hover {color: #ffa366;}
+a:active {color: #003d99;}
+
+li {
+    list-style-type: square;
+    color: black;
+}
+
+p {
+    font-size: 100%;
+}
+
+body {
+    padding-bottom: 50px;
+}
+
+h1 {
+    color: black;
+    font-size: 125%;
+    text-align: center;
+}
+
+h2 {
+    display: block;
+    color: black;
+    font-size: 95%;
+    padding-left: 50px;
+    text-align: center;
+}
+
+h3 {
+    list-style-type: square;
+    font-size: 100%;
+    text
+}
+
+h4 {
+    font-size: 100%;
+    font-weight: normal;
+
+}
+
+.main_ul {
+    display: block;
+    color: black;
+    font-size: 95%;
+    margin: left;
+}
+
+#Kangaroo {
+  display: block;
+  margin: left;
+  height:250px;
+  width: 400px;
+}
+
+#audio_play1, #audio_play2, #audio_play3 {
+  display: block;
+  margin: left;
+  height:250px;
+  width: 400px;
+}
+
+img #pause, #play {
+    cursor:pointer;
+}
+
+#Platypus {
+  display: block;
+  margin: left;
+  height:250px;
+  width: 400px;
+}
+
+#Koala {
+  display: block;
+  margin: left;
+  height:400px;
+  width: 400px;
+}
+
+#Pause {
+  display: block;
+  height:100px;
+  width: 100px;
+  float: right;
+}
+
+#Play {
+  display: block;
+  float: right;
+  height:100px;
+  width: 100px;  
+}
+
+div.block {
+    border-left: 1px solid black;
+    border-top: 10px solid black;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    margin: 20px;
+}
+
+div.zblock {
+    border-left: 0px solid black;
+    border-top: 0px solid black;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    margin: 20px;
+}
+
+div.iblock {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+h5, h6 {
+    color: black;
+    font-size: 50%;
+    text-align: center;
+}
+
+footer {
+    padding-top: 50px;
+}
